@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a conscience
+title: Camas perrunas
 subtitle: Support sustainable farming while enjoying a cup
 image: img/manchitas_img_0413.jpg
 blurb:
