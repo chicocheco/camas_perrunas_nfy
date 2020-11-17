@@ -1,11 +1,10 @@
-baseurl = "/"
+baseURL = 'https://camasperrunas.netlify.app/'
 languageCode = "en-us"
 languageLang = "en"
-title = "Homepage"
+title = "Camas Perrunas"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-baseURL = 'https://camasperrunas.netlify.app/'
