@@ -1,6 +1,6 @@
 baseURL = 'https://camasperrunas.netlify.app/'
-languageCode = "en-us"
-languageLang = "en"
+languageCode = "es-es"
+languageLang = "es"
 title = "Camas Perrunas"
 
 # RSS, categories and tags disabled for an easy start
