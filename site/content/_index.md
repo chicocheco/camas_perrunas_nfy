@@ -1,13 +1,13 @@
 ---
 title: Camas perrunas
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Madrid
 image: img/manchitas_img_0413.jpg
 blurb:
-  heading: Why Kaldi???
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: A tu gusto
+  text: >-
+    Camas para mascotas 100% artesanales, hechas a mano y a tu gusto 
+
+    ¡Encarga tú también la tuya! Estamos en Madrid y realizamos envíos a toda España
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
